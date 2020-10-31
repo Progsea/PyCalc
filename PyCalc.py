@@ -1,4 +1,3 @@
-# hello world 123
 def add(num1, num2):
     return num1 + num2
 
@@ -10,8 +9,6 @@ def mul(num1, num2):
 
 def div(num1, num2):
     return num1 / num2
-
-#Print now
 
 print("What do you want to do? Add, subtract, multiply, or divide (a, s, m, d)?")
 typeOfOperator = input()
